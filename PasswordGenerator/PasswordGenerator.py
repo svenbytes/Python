@@ -1,4 +1,4 @@
-#Required to install "secrets", "string", "clipboard" in terminal whit "pip install <Modulname>"
+#Required to install "secrets", "string", "clipboard" in terminal with "python3 install <Modulname>"
 #Code by Svenbytes
 #github.com/svenbytes/Python
 
